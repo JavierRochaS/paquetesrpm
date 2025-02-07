@@ -1,5 +1,5 @@
 # Paquetes RPM.
-
+![rpm.png](img/rpm.png)
 ## Indice
 
 1. [Presentacion](presentacion.md)
