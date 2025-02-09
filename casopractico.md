@@ -6,17 +6,17 @@
 
 sudo dnf update -y
 
-* Instalar un paquete (ejemplo: htop):
+* Instalar un paquete (ejemplo: nano):
 
-sudo dnf install htop -y
+sudo dnf install nano -y
 
 * Verificar la instalación:
 
-rpm -q htop
+rpm  nano -q
 
 * Eliminar un paquete:
 
-sudo dnf remove htop -y
+sudo dnf remove nano -y
 
 * Instalar un RPM manualmente:
 
